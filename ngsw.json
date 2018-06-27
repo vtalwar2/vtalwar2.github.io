@@ -9,12 +9,14 @@
       "urls": [
         "/favicon.ico",
         "/index.html",
-        "/main.8c6188bd416a0bfeb996.js",
+        "/main.b2cc5eda35f7bdc5a063.js",
         "/polyfills.7a0e6866a34e280f48e7.js",
         "/runtime.a66f828dca56eeb90e02.js",
         "/styles.0c9490ef41054decb151.css"
       ],
-      "patterns": []
+      "patterns": [
+        "https:\\/\\/fonts\\.googleapis\\.com\\/icon\\?family=Material\\+Icons"
+      ]
     },
     {
       "name": "assets",
@@ -44,8 +46,8 @@
     "/assets/icons/icon-72x72.png": "c9e55917b67be656dcf322bdc96e2a050d7619aa",
     "/assets/icons/icon-96x96.png": "1a1bbb339949d9dd5b540b85f5c8d5ec2554e75c",
     "/favicon.ico": "84161b857f5c547e3699ddfbffc6d8d737542e01",
-    "/index.html": "26d5ee2d7c5dc74bf94adc839af082bd5b32e6e0",
-    "/main.8c6188bd416a0bfeb996.js": "4c61effcf8145ec20986b9cea0cab8f9faa418e7",
+    "/index.html": "a85b31580938c8806d763788602cb44c73a3ff84",
+    "/main.b2cc5eda35f7bdc5a063.js": "8c9acaf840414d0b5bd372ddd1537e25b6c9b523",
     "/polyfills.7a0e6866a34e280f48e7.js": "9f0b8341c0a0caec1581da2f255eb5dbb8e12303",
     "/runtime.a66f828dca56eeb90e02.js": "078e320cc6fdaf355836c3b1c52b059cdd33fc7e",
     "/styles.0c9490ef41054decb151.css": "9660b32d8c871a0eef5490d79f7cf931c92413e4"
