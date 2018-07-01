@@ -9,7 +9,7 @@
       "urls": [
         "/favicon.ico",
         "/index.html",
-        "/main.82ae38c970f14a469efd.js",
+        "/main.2bcbbd9415e6f55ec2c2.js",
         "/polyfills.7a0e6866a34e280f48e7.js",
         "/runtime.a66f828dca56eeb90e02.js",
         "/styles.6997d0c20ba509d76ee0.css"
@@ -23,6 +23,7 @@
       "installMode": "lazy",
       "updateMode": "prefetch",
       "urls": [
+        "/assets/Cyan_Desktop.png",
         "/assets/icons/icon-128x128.png",
         "/assets/icons/icon-144x144.png",
         "/assets/icons/icon-152x152.png",
@@ -37,6 +38,7 @@
   ],
   "dataGroups": [],
   "hashTable": {
+    "/assets/Cyan_Desktop.png": "821e9b55b22bcaa9cac4b40b7fb2695aeb891f49",
     "/assets/icons/icon-128x128.png": "6205071c9998e76485eb04ea245a70611b5354f7",
     "/assets/icons/icon-144x144.png": "20e05e5dd6e209c41db6e3e9f5772ff70ca8cb28",
     "/assets/icons/icon-152x152.png": "73af6d378a01cb22b7466942deaf89d8e1b6f548",
@@ -46,8 +48,8 @@
     "/assets/icons/icon-72x72.png": "c9e55917b67be656dcf322bdc96e2a050d7619aa",
     "/assets/icons/icon-96x96.png": "1a1bbb339949d9dd5b540b85f5c8d5ec2554e75c",
     "/favicon.ico": "84161b857f5c547e3699ddfbffc6d8d737542e01",
-    "/index.html": "53f4e8f921f322f36619f47686f7878bce9dbcb6",
-    "/main.82ae38c970f14a469efd.js": "9a74814eacd305255fccebe2b2b049fced42b116",
+    "/index.html": "d4efde96b46f9a18156787edd3689e6cc7ad7744",
+    "/main.2bcbbd9415e6f55ec2c2.js": "7b86afbc3bb210aacb49f7a724d6f218c5432d8d",
     "/polyfills.7a0e6866a34e280f48e7.js": "9f0b8341c0a0caec1581da2f255eb5dbb8e12303",
     "/runtime.a66f828dca56eeb90e02.js": "078e320cc6fdaf355836c3b1c52b059cdd33fc7e",
     "/styles.6997d0c20ba509d76ee0.css": "38c7ab34921528f8dfd0b4b2793e5e55b0eb46db"
